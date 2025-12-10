@@ -3,6 +3,5 @@
 *.swp
 .DS_Store
 /.localenv/
-/datasets/
 /.ipynb_checkpoints/
 core.*
